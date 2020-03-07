@@ -1,0 +1,41 @@
+.Register {
+  margin-top: 1%;
+}
+
+#myLogin {
+  text-align: center;
+}
+.Login {
+  margin-left: 40%;
+  margin-right: 40%;
+}
+.myRegister {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.Data {
+  margin-top: 0.5%;
+}
+legend {
+  text-align: center;
+  font-size: 150%;
+}
+body {
+  background-image: url(BG.png);
+}
+span {
+  color: red;
+}
+p {
+  color: red;
+}
+.NonButton input {
+  margin-top: 1%;
+  background-color: rgba(255, 255, 255, 0.272);
+}
+input {
+  background-color: rgba(204, 204, 204, 0.938);
+}
+fieldset {
+  margin-top: 10%;
+}
